@@ -6,7 +6,6 @@
            <groupId>com.alerta</groupId>
            <artifactId>hello3</artifactId>
            <version>1.0</version>
-           <relativePath>../pom.xml</relativePath>
        </parent>
     <artifactId>helloworld</artifactId>
     <packaging>war</packaging>
